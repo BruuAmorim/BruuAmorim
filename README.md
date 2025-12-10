@@ -14,14 +14,33 @@ Analista de Suporte e Implantação de Automações
 Desenvolvedora em formação, entusiasta de tecnologia, automação e boas práticas de desenvolvimento.  
 Busca constante por aprender, criar soluções eficientes e participar de comunidades e eventos de tecnologia.  
 
-- 🎯 Foco: DevOps, front-end e automações  
-- 🎮 Interesses: games, comunidades e projetos colaborativos  
+
+---
+
+## 🎮 O que eu amo
+
+- Criatividade & design  
+- Hackathons  
+- Explorar novas culturas  
+- Projetos com impacto social  
+- Games, eventos tech e pessoas :)
+
+---
+
+## 📚 Atualmente estudando
+
+- Cloud (AWS/DevOps)  
+- Typescript  
+- React  
+- Boas práticas de automação  
+- Integrações e pipelines  
 
     </td>
     <td align="center">
 
-<img src="https://64.media.tumblr.com/fb9f6d357802fba67a79e5fe85dca5a4/tumblr_ngzxic2j4D1r5k1n4o1_500.gif" width="260" alt="gif fofo da Bruna"><br>
+<img src="https://64.media.tumblr.com/fb9f6d357802fba67a79e5fe85dca5a4/tumblr_ngzxic2j4D1r5k1n4o1_500.gif" width="300" alt="gif fofo da Bruna"><br>
     </td>
   </tr>
 </table>
 
+★彡 Obrigada por visitar meu perfil! 彡★
