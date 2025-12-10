@@ -2,7 +2,7 @@
 
 <p align="center">
 Estudante de Análise e Desenvolvimento de Sistemas (2º semestre) ·  
-Analista de Suporte e Implantação de Automações
+Analista de Suporte e Implantação de sistema
 </p>
 
 ---
