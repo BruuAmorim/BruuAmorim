@@ -59,7 +59,7 @@ Minha jornada recente tem sido focada na criação de aplicações reais (SaaS),
 
 <div align="center">
   <br><br>
-  <img src="https://i.pinimg.com/736x/34/6c/d6/346cd6c95656927048f60efdf470c413.jpg" width="350" style="border-radius: 10px;" alt="JoJo Reference">
+  <img src="https://i.pinimg.com/736x/23/13/43/2313438d45107b71f92bca99d4438b46.jpg" width="350" style="border-radius: 10px;" alt="JoJo Reference">
   <br><br>
   (Nos vemos no próximo commit!)
 </div>
